@@ -78,7 +78,7 @@ export default function Mine({ setCurrentView }: MineProps) {
                 <div className="flex-grow mt-4 bg-[#f3ba2f] rounded-t-[48px] relative top-glow z-0">
                     <div className="mt-[2px] bg-[#1d2025] rounded-t-[46px] h-full overflow-y-auto no-scrollbar">
                         <div className="px-4 pt-1 pb-24">
-                            <h1 className="text-2xl text-center mt-4">Upgrade CRETON Production</h1>
+                            <h1 className="text-2xl text-center mt-4">Upgrade PEPECASH Production</h1>
 
                             <div className="px-4 mt-4 flex justify-center">
                                 <div className="px-4 py-2 flex items-center space-x-2">
@@ -89,7 +89,7 @@ export default function Mine({ setCurrentView }: MineProps) {
 
                             <div className="bg-[#272a2f] rounded-lg p-4 mt-6">
                                 <div className="flex justify-between items-center mb-4">
-                                    <p>Current CRETON per hour:</p>
+                                    <p>Current PEPECASH per hour:</p>
                                     <p className="text-[#f3ba2f]">{formatNumber(profitPerHour)}</p>
                                 </div>
                                 <div className="flex justify-between items-center mb-4">
@@ -97,7 +97,7 @@ export default function Mine({ setCurrentView }: MineProps) {
                                     <p className="text-[#f3ba2f]">{formatNumber(upgradeCost)}</p>
                                 </div>
                                 <div className="flex justify-between items-center">
-                                    <p>CRETON per hour increase:</p>
+                                    <p>PEPECASH per hour increase:</p>
                                     <p className="text-[#f3ba2f]">+{formatNumber(upgradeIncrease)}</p>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@ export default function Mine({ setCurrentView }: MineProps) {
                             <div className="bg-[#272a2f] rounded-lg p-4 mt-6 flex items-start">
                                 <Info className="w-6 h-6 text-[#f3ba2f] mr-3 flex-shrink-0 mt-1" />
                                 <p className="text-sm text-gray-300">
-                                    Your mine automatically produces CRETON for up to <span className="text-white font-bold">{maxInactiveHours} hours</span> after your last activity. Make sure to check in regularly to maximize your CRETON production!
+                                    Your mine automatically produces PEPECASH for up to <span className="text-white font-bold">{maxInactiveHours} hours</span> after your last activity. Make sure to check in regularly to maximize your PEPECASH production!
                                 </p>
                             </div>
 

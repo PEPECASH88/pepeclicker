@@ -27,10 +27,10 @@ export default function Home() {
           </div>
         </div>
         
-        <h1 className="text-3xl font-bold mb-4">Welcome to T2E CRETON</h1>
+        <h1 className="text-3xl font-bold mb-4">Welcome to T2E PEPECASH</h1>
         
         <p className="text-xl mb-2">The game is on the <Link href="/clicker" className="underline">Clicker</Link> page.</p>
-        <p className="text-xl mb-6">Developed by <Link href="https://t.me/t2e_creton" target="_blank" className="underline">CRETON</Link>.</p>
+        <p className="text-xl mb-6">Developed by <Link href="https://t.me/t2e_PEPECASH" target="_blank" className="underline">PEPECASH</Link>.</p>
         
         <div className="flex items-center space-x-2">
           <IceCube className="w-8 h-8 animate-pulse" />

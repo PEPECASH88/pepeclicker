@@ -152,7 +152,7 @@ export default function Loading({ setIsInitialized, setCurrentView }: LoadingPro
             height={200}
           />
           <p className="mt-4">@{process.env.NEXT_PUBLIC_BOT_USERNAME}</p>
-          <p className="mt-2">Developed by CRETON</p>
+          <p className="mt-2">Developed by PEPECASH</p>
         </div>
       </div>
     );
@@ -176,7 +176,7 @@ export default function Loading({ setIsInitialized, setCurrentView }: LoadingPro
           </div>
         </div>
 
-        <h1 className="text-3xl font-bold mb-4">Loading T2E CRETON</h1>
+        <h1 className="text-3xl font-bold mb-4">Loading T2E PEPECASH</h1>
 
         <div className="flex items-center space-x-2">
           <IceCube className="w-8 h-8 animate-pulse" />

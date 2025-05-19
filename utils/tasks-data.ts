@@ -14,7 +14,7 @@
 
 export const earnData = [
     {
-      category: "CRETON Youtube",
+      category: "PEPECASH Youtube",
       tasks: [
         {
           title: "Enjoy SpaceRun on another hot map.",
@@ -41,10 +41,10 @@ export const earnData = [
           isActive: true  
         },
         {
-          title: "$CRETON EVENT",
+          title: "$PEPECASH EVENT",
           points: 5000,
           image: "youtube",
-          description: "Event for Beta (3,000,000 $CRETON distribution)",
+          description: "Event for Beta (3,000,000 $PEPECASH distribution)",
           callToAction: "Watch video",
           type: "VISIT",
           taskData: {
@@ -58,27 +58,27 @@ export const earnData = [
       category: "Tasks list",
       tasks: [
         {
-          title: "Join $CRETON News / Updates",
+          title: "Join $PEPECASH News / Updates",
           points: 5000,
           image: "telegram",
-          description: "Stay updated with the latest news and announcements by joining CRETON News Telegram channel.",
+          description: "Stay updated with the latest news and announcements by joining PEPECASH News Telegram channel.",
           callToAction: "Join channel",
           type: "TELEGRAM",
           taskData: {
-            link: "https://t.me/CRETONoffiical",
-            chatId: "CRETONofficial"
+            link: "https://t.me/PEPECASHoffiical",
+            chatId: "PEPECASHofficial"
           },
           isActive: true  
         },
         {
-          title: "Follow $CRETON's X",
+          title: "Follow $PEPECASH's X",
           points: 5000,
           image: "twitter",
           description: "Follow me on X (formerly Twitter) for real-time updates and community engagement.",
           callToAction: "Follow on X",
           type: "VISIT",
           taskData: {
-            link: "https://x.com/Creton_Game"
+            link: "https://x.com/PEPECASH_Game"
           },
           isActive: true  
         },
@@ -86,7 +86,7 @@ export const earnData = [
           title: "Invite 3 friends",
           points: 25000,
           image: "friends",
-          description: "Invite your friends to join the CRETON community and earn bonus points for each successful referral.",
+          description: "Invite your friends to join the PEPECASH community and earn bonus points for each successful referral.",
           callToAction: "Invite friends",
           type: "REFERRAL",
           taskData: {
